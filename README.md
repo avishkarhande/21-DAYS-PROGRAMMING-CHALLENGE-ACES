@@ -1,5 +1,5 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
-* Item 1
-* Item 2  
-* Item 2a  
-* Item 2b
+* Day 1
+  * Binary Search
+  * First Occurence Using Binary Search
+  * Last Occurence Using Binary Search
