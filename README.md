@@ -9,3 +9,4 @@
 * Day 2
   * [Quick Sort](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%202/quicksort.cpp)
   * [Kth Smallest Element on logn](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%202/kth-smallest.cpp)
+  * [Prime Factorisation-naive optimised](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%202/prime-factorisation-naive.cpp)
