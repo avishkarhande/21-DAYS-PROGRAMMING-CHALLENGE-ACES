@@ -17,4 +17,4 @@
   * [Euclid's GCD Algorithm](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%203/euclid-gcd-algorithm.cpp)
 ---
 * Day 4
- * [Modular Exponentiation](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%204/modular_exponentiation.cpp)
+  * [Modular Exponentiation](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%204/modular_exponentiation.cpp)
