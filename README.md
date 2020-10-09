@@ -18,3 +18,9 @@
 ---
 * Day 4
   * [Modular Exponentiation](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%204/modular_exponentiation.cpp)
+---
+* Day 5
+  * [REPLACE FOR X - CODECHEF OCTOBER LONG] - CANNOT UPLOAD CODE DUE TO RULES OF CONTEST
+  * [CUT THE STICKS - HACKERRANK](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%205/cutsticks.cpp)
+  * [Between two sets](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%205/between%20two%20sets.cpp)
+  * [QuickSort Partition](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%205/quicksort-partition.cpp)
