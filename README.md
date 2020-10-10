@@ -24,3 +24,6 @@
   * [CUT THE STICKS - HACKERRANK](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%205/cutsticks.cpp)
   * [Between two sets](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%205/between%20two%20sets.cpp)
   * [QuickSort Partition](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%205/quicksort-partition.cpp)
+---
+* Day 6
+  * [1367-B EVEN ARRAYS - CODEFORCES](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/cf.cpp)
