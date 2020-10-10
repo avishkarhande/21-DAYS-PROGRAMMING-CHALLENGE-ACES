@@ -28,3 +28,4 @@
 * Day 6
   * [1367-B EVEN ARRAYS - CODEFORCES](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/cf.cpp)
   * [1360-B HONEST COACH - CF](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/1360B.cpp)
+  * [711-A BUS TO UDAYLAND - CF](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/711A.cpp)
