@@ -30,3 +30,11 @@
   * [1360-B HONEST COACH - CF](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/1360B.cpp)
   * [711-A BUS TO UDAYLAND - CF](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/711A.cpp)
   * [492-A VANYA'S CUBES](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/492A.cpp)
+* Day 7
+  * [Check if the Line is Straight Line](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Check%20if%20it%20is%20Straight%20Line)
+  * [Convert Binary Number in LL to Integer](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Convert%20Binary%20Number%20in%20a%20LL%20to%20INT)
+  * [Decompress RunLength of LL](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Decompress%20Run%20Length%20of%20LL.cpp)
+  * [Delete Node in LL](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Delete%20Node%20in%20a%20LL)
+  * [Detect Cycle in LL](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Detect%20Cycle%20in%20a%20LL)
+  * [Intersection of two LL](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Intersection%20Of%20two%20LL)
+  * [Reverse a LL](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Reverse%20A%20Linked%20List);
