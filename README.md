@@ -30,6 +30,7 @@
   * [1360-B HONEST COACH - CF](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/1360B.cpp)
   * [711-A BUS TO UDAYLAND - CF](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/711A.cpp)
   * [492-A VANYA'S CUBES](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%206/492A.cpp)
+---
 * Day 7
   * [Check if the Line is Straight Line](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Check%20if%20it%20is%20Straight%20Line)
   * [Convert Binary Number in LL to Integer](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Convert%20Binary%20Number%20in%20a%20LL%20to%20INT)
