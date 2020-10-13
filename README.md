@@ -39,3 +39,13 @@
   * [Detect Cycle in LL](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Detect%20Cycle%20in%20a%20LL)
   * [Intersection of two LL](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Intersection%20Of%20two%20LL)
   * [Reverse a LL](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%207/Reverse%20A%20Linked%20List);
+---
+* Day 8
+  * [Max Depth Of Binary Tree](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%208/Max%20Depth%20Of%20Binary%20Tree)
+  * [Univalued Binary Tree](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%208/Univalued%20Binary%20Tree)
+  * [Search in a BST](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%208/search%20in%20a%20BST.cpp)
+---
+ * Day 9
+   * [Duck Number GFG](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%209/duck_number.cpp)
+   * [Longest Subsequence](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%209/long.cpp)
+   * [Subsequence of array or string](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%209/subsequence.cpp)
