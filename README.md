@@ -49,3 +49,10 @@
    * [Duck Number GFG](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%209/duck_number.cpp)
    * [Longest Subsequence](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%209/long.cpp)
    * [Subsequence of array or string](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%209/subsequence.cpp)
+ ---
+ * Day 10
+   * [118-A Codeforces](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%2010/118A.cpp)
+   * [122-A Codeforces](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%2010/122A.cpp)
+   * [160-A Codeforces](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%2010/160a.cpp)
+   * [339-A Codeforces](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%2010/339A.cpp)
+   * [58-A Codeforces](https://github.com/avishkarhande/21-DAYS-PROGRAMMING-CHALLENGE-ACES/blob/main/DAY%2010/58A.cpp)
