@@ -1,0 +1,40 @@
+BIT MANIPULATION
+
+XOR 
+* XOR of even number of same elements is 0.
+* XOR of zero with any number gives that number.
+
+Make i th bit from right set(1)
+*s|(1<<i)
+
+Make i th bit from right reset(0)
+* s&~(1<<i)
+
+Flip the ith bit
+* s^(1<<i)
+
+Find the LSB
+* s&(~s)
+
+Bitset
+	bitset<size>name;
+	
+	int n;
+	cin>>n;
+	bitset<32>s(n);
+
+	for(int i=0;i<=31;i++){
+		cout<<s[i];	//binary form printing
+	}
+	
+	cout<<s.to_string(); //binary to string
+	cout<<s.to_ulong(); //binary to long
+	cout<<s.to_ullong(); //binary to long long
+
+Inbuilt functions of bitset
+	s.set();
+	s.reset(); //sets not checks
+	s.test(jth bit); // returns true if j th bit is on
+	s.all(); // check if all bits are set
+	s.none(); // check if all bits are reset
+	s.any(); // check if any bit is set
