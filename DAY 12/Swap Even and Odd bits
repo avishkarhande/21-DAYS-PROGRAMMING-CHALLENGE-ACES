@@ -1,0 +1,19 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	int t;
+	cin>>t;
+	while(t--){
+	    int n;
+	    cin>>n;
+	    bitset<32>b(n);
+	    for(int i=0;i<=31;i+=2){
+	        int tem = b[i];
+	        b[i] = b[i+1];
+	        b[i+1] = tem;
+	    }
+	    cout<<b.to_ulong()<<endl;
+	}
+	return 0;
+}
