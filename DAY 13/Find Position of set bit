@@ -1,0 +1,21 @@
+class Solution {
+  public:
+    int findPosition(int N) {
+        int set_bits = 0;
+        bitset<32>b(N);
+        for(int i=0;i<32;i++){
+            if(b[i]){
+                set_bits++;
+            }
+        }
+        if(set_bits==1){
+            for(int i=0;i<32;i++){
+                if(b[i]){
+                    return i+1;
+                }
+            }
+        }else{
+            return -1;
+        }
+    }
+};
