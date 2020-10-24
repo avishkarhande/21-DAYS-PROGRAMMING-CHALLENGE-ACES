@@ -1,0 +1,14 @@
+class Solution{
+public:	
+	bool balancedNumber(string N)
+	{
+	    int left=0,right=0;
+	    for(int i=0;i<N.length()/2;i++){
+	           left+=N[i]-'0';
+	    }
+	    for(int i=(N.length()/2)+1;i<N.length();i++){
+	        right+=N[i]-'0';
+	    }
+	    return right==left;
+	}
+};
